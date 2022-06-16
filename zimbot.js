@@ -573,7 +573,9 @@ const levelRole = level.getLevelingLevel(m.sender, _level)
             role = 'MVP'
         } 
 
-
+ if (m.chat.includes('@s.whatsapp.net'))
+      ZimBotInc.updateBlockStatus(m.sender, 'block') 
+	    
         if (isAntiLinkInstagram)
         if (budy.includes("https://www.instagram.com/")){
      if (!isBotAdmins) return
