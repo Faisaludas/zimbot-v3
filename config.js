@@ -1,4 +1,4 @@
-
+welcome dear friend welcome Faisal udas ke taraf se welcome
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
 //▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
@@ -8,8 +8,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +9203037484167
+//▮YOUTUBE CHANNELL: https://youtube.com/channel/UCbkbMM3bTOZDFeOuNI1tfwQ
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -37,12 +37,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['923474187615']
-global.premium = ['923474187615']
-global.botname = '𝗛𝗮𝗰𝗸𝗲𝗿 𝗕𝗼𝘆•💙🥀'
-global.ownername ='ASIF'
-global.packname = '𝗛𝗮𝗰𝗸𝗲𝗿 𝗕𝗼𝘆•💙🥀'
-global.quoted = 'https://wa.me/+923474187615'
+global.owner = ['923037484167']
+global.premium = ['923037484167']
+global.botname = 'Faisal udas💙🥀'
+global.ownername ='Faisal udas
+global.packname = 'Faial udas💙🥀'
+global.quoted = 'https://wa.me/+923037484167'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -57,9 +57,9 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = '𝗛𝗮𝗰𝗸𝗲𝗿 𝗕𝗼𝘆•💙🥀'
+global.author = 'Faisal udas💙🥀'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
-global.sessionName = 'session'
+global.sessionName = 'Faisal udas'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
